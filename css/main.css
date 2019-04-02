@@ -8,7 +8,7 @@ html{
 body{
   margin: 0;
   font-family: 'Cormorant Garamond', serif;
-  font-size: 16.5px;
+  font-size: 17px;
   color: #111;
   background-color: #eee;
 }
@@ -20,7 +20,7 @@ h1, h2, h3{
 h1{
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 3em;
+  font-size: 4em;
   text-align: center;
   color: #333;
   padding: 0em;
